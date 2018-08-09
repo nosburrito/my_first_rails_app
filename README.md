@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 # my_first_rails_app
 # my_first_rails_app
+# my_first_rails_app
